@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dunnvilleductcleaning.ca/sitemap-index.xml
